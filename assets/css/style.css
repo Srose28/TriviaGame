@@ -1,3 +1,7 @@
-body {
+.container {
+    text-align: center;
     background: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
 }
+
+
